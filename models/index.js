@@ -8,7 +8,7 @@ var Sequelize = require('sequelize');
 //    DATABASE_URL = sqlite:///
 //    DATABASE_STORAGE = quiz.sqlite
 // Usar BBDD Postgres:
-//    DATABASE_URL = postgres://user:passwd@host:port/database
+//    DATABASE_URL = postgres://lihqhgmdwixvpz:wWQQqfyTHtVQfYKhafl5sblYGY@ec2-54-243-204-221.compute-1.amazonaws.com:5432/d2758bpf8gk51s
 
 var url = process.env.DATABASE_URL;
 var storage = process.env.DATABASE_STORAGE || "";

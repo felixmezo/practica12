@@ -4,9 +4,5 @@ body             { background: #333; }
 
 .no-narrow       { display: none; }
 
-body             { font-size: xx-large; }
-footer, input    { font-size: large; }
-
-#buscador {
-	width: 90%;
-}
+body                  { font-size: xx-large; }
+footer, input, button { font-size: large; }
